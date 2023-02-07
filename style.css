@@ -7,6 +7,10 @@ body {
   height: 100%;
 }
 
+.list li {
+  padding: 20px;
+}
+
 #header {
   position: fixed;
   top: 0;
